@@ -1,5 +1,5 @@
 #include "PantallaInicio.h"
-
+//Inicialice le constructor PantallaInicio
 PantallaInicio::PantallaInicio(string _ID, string _nombreUsuario, string _peliculasVistas, string _seriesVistas)
 {
   string ID,nombreUsuario,peliculasVistas,seriesVistas;
