@@ -1,6 +1,6 @@
 /*
-Autor: Kevin Ariel Ramírez Amaya.
-email: kevin.amaya@correounivalle.edu.co
+Autor: John Jaider Ramos Gaviria
+email: ramos.john@correounivalle.edu.co
 fecha de creación: 2023-09-19
 Ultima fecha de modificación: 2023-09-19
 */
